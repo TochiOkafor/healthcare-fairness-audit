@@ -201,6 +201,11 @@ This highlights a critical lesson in responsible AI: **bias mitigation is not gu
 
 ---
 
+## 📓 View Notebook
+
+[Click here to view the full notebook](https://nbviewer.org/github/TochiOkafor/healthcare-fairness-audit/blob/main/notebooks/fairness_audit.ipynb)
+
+---
 ## How to Run
 
 1. Open `notebooks/fairness_audit.ipynb` in [Google Colab](https://colab.research.google.com/)
